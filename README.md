@@ -7,4 +7,4 @@ However, finding an affordable studio rental is increasingly becoming harder in 
 
 Understanding and forecasting downtown LA studio rental prices is a good way to assess the overall market trend in LA's outer parts including Venice Beach, Santa Monica, and Malibu. We built a time series model for analyzing and projecting downtown LA studio rental prices for 2018 using data from Zillow (data from  March, 2012 through November, 2017). 
 
-Read Here: 
+Read Here: https://beyondtheaverage.wordpress.com/2018/02/14/it-might-be-harder-to-find-cheap-studio-rentals-in-los-angeles/
